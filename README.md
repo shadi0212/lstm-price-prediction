@@ -1,3 +1,3 @@
 # LSTM for Price Prediction
 
-This Jupyter Notebook is used for predicting copper price data using LSTM.
+This Jupyter Notebook is used for predicting LME price data using LSTM.
